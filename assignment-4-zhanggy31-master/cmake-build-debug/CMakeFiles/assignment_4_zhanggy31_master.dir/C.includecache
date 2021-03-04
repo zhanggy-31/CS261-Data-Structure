@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/VOID/Desktop/assignment-4-zhanggy31-master/dynarray.h
+
+C:/Users/VOID/Desktop/assignment-4-zhanggy31-master/pq.c
+stdlib.h
+-
+stdio.h
+-
+pq.h
+C:/Users/VOID/Desktop/assignment-4-zhanggy31-master/pq.h
+dynarray.h
+C:/Users/VOID/Desktop/assignment-4-zhanggy31-master/dynarray.h
+assert.h
+C:/Users/VOID/Desktop/assignment-4-zhanggy31-master/assert.h
+
+C:/Users/VOID/Desktop/assignment-4-zhanggy31-master/pq.h
+
