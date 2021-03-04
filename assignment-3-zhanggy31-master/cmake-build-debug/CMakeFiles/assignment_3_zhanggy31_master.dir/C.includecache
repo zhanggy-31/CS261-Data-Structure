@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/VOID/Desktop/assignment-3-zhanggy31-master/bst.c
+stdlib.h
+-
+bst.h
+C:/Users/VOID/Desktop/assignment-3-zhanggy31-master/bst.h
+
+C:/Users/VOID/Desktop/assignment-3-zhanggy31-master/bst.h
+
